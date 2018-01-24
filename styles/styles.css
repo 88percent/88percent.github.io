@@ -1,0 +1,13 @@
+/* Styles */
+h1 {
+	font-family: 'Slabo 27px', serif;
+	font-size: 55px;
+}
+#thesis {
+	font-family: 'Slabo 27px', serif;
+	text-align: center;
+}
+h2, h3, h4, h5 {
+	font-family: 'Slabo 27px', serif;
+	text-align: center;
+}
